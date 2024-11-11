@@ -16,7 +16,7 @@ Proficient in designing, developing, and deploying scalable web and mobile appli
 ##### Back-End ![backend (1)](https://github.com/user-attachments/assets/7205892a-cf8a-4475-babe-9ddc1ff38885):
 
 
-- NodeJs, ExpressJs, ASP.Net MVC, .Net Core, C#, PHP
+- NodeJs, ExpressJs, NestJs, ASP.Net MVC, .Net Core, C#, PHP
 
 ##### Databases ![database](https://github.com/user-attachments/assets/51c6ebc2-16c1-4539-8a3c-6185b6861f2e)
 
