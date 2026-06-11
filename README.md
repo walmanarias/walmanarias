@@ -1,97 +1,192 @@
-<h1 align="center">Hi there 👋 I'm Walman Arias</h1>
-
 <p align="center">
-  <em>Senior Full-Stack Software Developer · 12+ Years of Experience · Honduras 🇭🇳</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Walman+Arias+%F0%9F%91%8B;Senior+Full-Stack+Software+Developer;12%2B+Years+Building+Web+%26+Mobile+Apps;Angular+%7C+React+%7C+.NET+%7C+Node.js+%7C+NestJS;Turning+ideas+into+scalable+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/walman-arias-banegas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:walmanarias@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
-  <a href="https://x.com/walmanarias"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
-  <a href="https://frontendmasters.com/u/walmanarias/"><img src="https://img.shields.io/badge/Frontend_Masters-CC0000?style=for-the-badge&logo=frontendmasters&logoColor=white" alt="Frontend Masters"/></a>
+  <img src="https://komarev.com/ghpvc/?username=walmanarias&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/walman-arias-banegas">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:walmanarias@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://frontendmasters.com/u/walmanarias/">
+    <img src="https://img.shields.io/badge/Frontend_Masters-Profile-CC0000?style=for-the-badge&logo=frontendmasters&logoColor=white" />
+  </a>
 </p>
 
----
+─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 src/pages/AboutMe.tsx 🧑‍💻</h2>
 
-I'm a highly skilled and experienced **Full-Stack Software Developer** with over **12 years in the industry**, based in Honduras. I specialize in designing, building, and deploying scalable **web and mobile applications** using modern front-end and back-end technologies.
+```typescript
+const walman: Developer = {
+  name: "Walman Arias",
+  role: "Senior Full-Stack Software Developer",
+  location: "Honduras 🇭🇳",
+  experience: "12+ years in the industry",
+  passion: "Building scalable web & mobile apps that solve real problems",
+  building: ["SaaS Platforms", "Mobile Apps", "Admin Dashboards", "REST APIs"],
+  stack: ["Angular · React · Next.js · TypeScript", "NestJS · Node.js · .NET Core · C#", "PostgreSQL · MongoDB · CosmosDB · GraphQL"],
+  cloud: ["AWS", "Azure", "Vercel", "DigitalOcean", "AppWrite"],
+  open_to: ["Full-time Roles", "Freelance", "Collaborations"],
+  currently_learning: ["Flutter", "RxJS Mastery", "Clean Architecture"],
+  motto: "Write clean code, ship fast, and never stop learning"
+}
+```
 
-- 🔭 Currently building **SaaS products** and **mobile apps** with TypeScript, React, and NestJS
-- 🌱 Always learning — recently focused on **Flutter**, **RxJS**, and **Clean Architecture**
-- 🤝 Experienced in **agile teams**, technical leadership, and delivering on time
-- 💬 Ask me about **Angular, React, .NET, Node.js, or cloud deployments**
-- ⚡ Fun fact: I'm a .NET passionate and a JavaScript junky at heart
+─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
----
+<h2 align="center">🛠️ src/pages/TechStack.tsx 🛠️</h2>
 
-## 🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48"/><br>Angular</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/><br>Next.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML5</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS/SCSS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48"/><br>NestJS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48"/><br>.NET</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/><br>C#</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br>PHP</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48"/><br>GraphQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/><br>AWS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="48"/><br>Vercel</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/><br>Flutter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48"/><br>Jest</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48"/><br>WordPress</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="48"/><br>Gatsby</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48"/><br>DigitalOcean</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br>Linux</td>
+  </tr>
+</table>
 
-### Front-End
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3/SCSS](https://img.shields.io/badge/CSS3%2FSCSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
-### Back-End
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<h2 align="center">🚀 src/pages/FeaturedProjects.tsx 🚀</h2>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+<table align="center">
+  <tr>
+    <td>🏊 <b>pool-desk</b></td>
+    <td>Pool Management SaaS Platform</td>
+    <td><code>TypeScript · NestJS</code></td>
+  </tr>
+  <tr>
+    <td>📱 <b>yolopido</b></td>
+    <td>Mobile App for YoLoPido Users</td>
+    <td><code>TypeScript · React Native</code></td>
+  </tr>
+  <tr>
+    <td>🛒 <b>shopmanagement-adminhub</b></td>
+    <td>Admin Dashboard for Shop Management</td>
+    <td><code>TypeScript · Angular</code></td>
+  </tr>
+  <tr>
+    <td>🚌 <b>cinco-estrellas-mobile-app</b></td>
+    <td>Bus Line Mobile App</td>
+    <td><code>TypeScript · Expo</code></td>
+  </tr>
+  <tr>
+    <td>🦷 <b>dental-clinic</b></td>
+    <td>Full-Stack Dental Clinic System</td>
+    <td><code>TypeScript · C# · Angular</code></td>
+  </tr>
+  <tr>
+    <td>🏥 <b>medmate</b></td>
+    <td>Medical Assistant Mobile Application</td>
+    <td><code>TypeScript</code></td>
+  </tr>
+</table>
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
----
+<h2 align="center">📡 src/pages/OnMyRadar.tsx 📡</h2>
 
-## 🚀 Featured Projects
+<table align="center">
+  <tr>
+    <td>📱 React Native & Expo</td>
+    <td>🦋 Flutter & Dart</td>
+    <td>🏗️ Clean Architecture</td>
+  </tr>
+  <tr>
+    <td>🔁 RxJS & Reactive Programming</td>
+    <td>☁️ Cloud-Native Development</td>
+    <td>🧪 Advanced Testing Patterns</td>
+  </tr>
+  <tr>
+    <td>🐳 Docker & Containerisation</td>
+    <td>🚀 Micro-Frontend Architecture</td>
+    <td>⚡ Edge & Serverless Functions</td>
+  </tr>
+</table>
 
-| Project | Description | Stack |
-|---|---|---|
-| 🏊 **pool-desk** | Pool Management SaaS platform | TypeScript, NestJS |
-| 📱 **yolopido** | Mobile app for YoLoPido service users | TypeScript, React Native |
-| 🛒 **shopmanagement-adminhub** | Admin dashboard for shop management | TypeScript, Angular |
-| 🚌 **cinco-estrellas-mobile-app** | Bus line mobile app for 5 Estrellas | TypeScript, Expo |
-| 🦷 **dental-clinic** | Full-stack dental clinic system (Angular + C# API) | TypeScript, C# |
-| 🏥 **medmate** | Medical assistant mobile application | TypeScript |
+─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
----
+<h2 align="center">📊 src/pages/Stats.tsx 📊</h2>
 
-## 🏅 Certifications
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=walmanarias&theme=tokyonight&hide_border=true" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=walmanarias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmanarias&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-- 🌐 **EF SET English Certificate** — 2020
-- 💻 **MTA: Software Development Fundamentals** — 2013
-- 🏆 **MCPS: Microsoft Certified Professional** — 2012
-- 🖥️ **MTA: Windows Development Fundamentals** — 2012
+─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
 
----
+<h2 align="center">🐍 src/pages/Contributions.tsx 🐍</h2>
 
-## 📈 GitHub Stats
+<div align="center">
+  <img src="https://raw.githubusercontent.com/walmanarias/walmanarias/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
+
+<h2 align="center">🐚 src/pages/WhoAmI.tsx 🐚</h2>
+
+```bash
+~/walman $ cat about.sh
+
+NAME="Walman Arias"
+LOCATION="Honduras 🇭🇳"
+
+INTERESTS=("⚽ Football" "🎮 Gaming" "📚 Tech Books" "🎵 Music")
+
+FACTS=(
+  "🌙 Best solutions come after deep focus sessions"
+  "⚡ 12+ years and still excited about new tech"
+  "🔧 .NET passionate by day, JavaScript junky by night"
+  "🚀 If it can be automated, it should be automated"
+  "🌎 Building products that make a difference"
+)
+
+echo "Open to: Full-time · Freelance · Collaborations"
+echo "Contact: walmanarias@outlook.com"
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walmanarias&show_icons=true&theme=dark&hide_border=true" alt="Walman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmanarias&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <em>"Always eager to keep up with industry standards and best practices — one commit at a time."</em>
+  <em>✨ "Write clean code, ship fast, and never stop learning" ✨</em>
 </p>
