@@ -1,70 +1,97 @@
-## Hi there 👋 my name is **Walman Arias**
+<h1 align="center">Hi there 👋 I'm Walman Arias</h1>
 
-### About Me 🧐
+<p align="center">
+  <em>Senior Full-Stack Software Developer · 12+ Years of Experience · Honduras 🇭🇳</em>
+</p>
 
-I'm highly skilled and experienced Software Developer with over 12 years in the industry. Adept at full-stack development with a strong focus on modern front-end and back-end technologies. 
-Proficient in designing, developing, and deploying scalable web and mobile applications using a wide range of technologies. Experienced in working in agile environments, leading teams, and delivering high-quality software products on time.
+<p align="center">
+  <a href="https://www.linkedin.com/in/walman-arias-banegas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:walmanarias@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/walmanarias"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
+  <a href="https://frontendmasters.com/u/walmanarias/"><img src="https://img.shields.io/badge/Frontend_Masters-CC0000?style=for-the-badge&logo=frontendmasters&logoColor=white" alt="Frontend Masters"/></a>
+</p>
 
-----------------------
+---
 
-### Technical Skills 🧑‍💻
+## 🧑‍💻 About Me
 
-##### Front-End 🖥️:
+I'm a highly skilled and experienced **Full-Stack Software Developer** with over **12 years in the industry**, based in Honduras. I specialize in designing, building, and deploying scalable **web and mobile applications** using modern front-end and back-end technologies.
 
-- Angular 2+, ReactJS, JavaScript, HTML5, CSS/SCSS, NativeScript, ReactNative, Expo, NextJs, Umbraco CMS, Wordpress, GatsbyJs
+- 🔭 Currently building **SaaS products** and **mobile apps** with TypeScript, React, and NestJS
+- 🌱 Always learning — recently focused on **Flutter**, **RxJS**, and **Clean Architecture**
+- 🤝 Experienced in **agile teams**, technical leadership, and delivering on time
+- 💬 Ask me about **Angular, React, .NET, Node.js, or cloud deployments**
+- ⚡ Fun fact: I'm a .NET passionate and a JavaScript junky at heart
 
-##### Back-End ![backend (1)](https://github.com/user-attachments/assets/7205892a-cf8a-4475-babe-9ddc1ff38885):
+---
 
+## 🛠️ Tech Stack
 
-- NodeJs, ExpressJs, NestJs, ASP.Net MVC, .Net Core, C#, PHP
+### Front-End
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3/SCSS](https://img.shields.io/badge/CSS3%2FSCSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-##### Databases ![database](https://github.com/user-attachments/assets/51c6ebc2-16c1-4539-8a3c-6185b6861f2e)
+### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-- SQL, MySQL, MongoDB, CosmosDB, Neo4js, PostgreSQL, GraphQL
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-##### Cloud Services ![server](https://github.com/user-attachments/assets/eb317784-b71a-42d0-84de-2bba017fdd70)
+---
 
+## 🚀 Featured Projects
 
-- AWS, Azure, Heroku, DigitalOcean, AppWrite, Vercel
+| Project | Description | Stack |
+|---|---|---|
+| 🏊 **pool-desk** | Pool Management SaaS platform | TypeScript, NestJS |
+| 📱 **yolopido** | Mobile app for YoLoPido service users | TypeScript, React Native |
+| 🛒 **shopmanagement-adminhub** | Admin dashboard for shop management | TypeScript, Angular |
+| 🚌 **cinco-estrellas-mobile-app** | Bus line mobile app for 5 Estrellas | TypeScript, Expo |
+| 🦷 **dental-clinic** | Full-stack dental clinic system (Angular + C# API) | TypeScript, C# |
+| 🏥 **medmate** | Medical assistant mobile application | TypeScript |
 
-##### Version Control ![social](https://github.com/user-attachments/assets/92f7b6c4-9142-4dd0-a7fa-a707ce879183):
+---
 
-- Git/GitHub
+## 🏅 Certifications
 
-##### Testing Frameworks ![testing](https://github.com/user-attachments/assets/a5675a56-40d3-4fb5-885e-af65ea6be152):
+- 🌐 **EF SET English Certificate** — 2020
+- 💻 **MTA: Software Development Fundamentals** — 2013
+- 🏆 **MCPS: Microsoft Certified Professional** — 2012
+- 🖥️ **MTA: Windows Development Fundamentals** — 2012
 
+---
 
-- XUnit, NUnit, Karma, Jasmine, Jest
+## 📈 GitHub Stats
 
-------------------
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=walmanarias&show_icons=true&theme=dark&hide_border=true" alt="Walman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmanarias&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
-### Certifications & Courses 📚
+---
 
-#### Certifications:
-
-1. [EF SET Certificate](https://cert.efset.org/pPYw6x) - 2020
-2. [MTA: Software development Fundamentals](https://learn.microsoft.com/en-us/users/walmanarias/credentials/certification-o-/mta-software-development-fundamentals?tab=credentials-tab) - 2013
-3. [MCPS: Microsoft Certified Professional](https://learn.microsoft.com/en-us/users/walmanarias/credentials/certification-o-/nouid.1519?tab=credentials-tab) - 2012
-4. [MTA: Windows Development Fundamentals](https://learn.microsoft.com/en-us/users/walmanarias/credentials/certification-o-/nouid.1317?tab=credentials-tab) - 2012
-
-#### Courses
-
-1. [Getting Started with Flutter Development](https://www.coursera.org/account/accomplishments/verify/C9PHQJWPWAFI?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - 2024
-2. [Version Control](https://www.coursera.org/account/accomplishments/verify/J2BIJ60I2KAN) - 2024
-3. [Introduction to Node.js v3](https://frontendmasters.com/u/walmanarias/) - 2024
-4. [ASP.Net Core - SOLID and Clean Architecture](https://ude.my/UC-2d382e8d-e704-4ded-8cd2-931b69ae1146) - 2024
-5. [Fullstack for frontend Engineers v3](https://frontendmasters.com/u/walmanarias/) - 2024
-6. [Mastering RXJs wihtout breking a sweat](https://ude.my/UC-11a89bfc-83b4-493b-95a7-831e76cb0777) - 2024
-7. [Architect Scale-able enterprise application in Angular](https://www.udemy.com/certificate/UC-df1b4546-fff8-49e8-8d43-81aa1b5ff410/) - 2020
-8. [Unit Testing for C# developers](https://www.udemy.com/certificate/UC-DRFWQEKE/) - 2019
-9. [Build real world app with ASP.Net Core and Angular 2+](https://www.udemy.com/certificate/UC-MZ2E4XXQ/) - 2019
-10. [Xamarin Forms: Build Native Cross Platform Apps with c#](https://www.udemy.com/certificate/UC-B3TY4O0N/) - 2018
-11. [ASP.Net Web API 2 Hands On](https://www.udemy.com/certificate/UC-KR508Y4G/) - 2018
-12. EF Code First by Example - 2013
-
-------------------------------
-
-## My drive and passion 😏:
-
-I'm currently learning a lot new trends and new ways of working with the React and Angular Technologies and always eager to keep myself with the business standards and best practices of the technologies. As a developer I try to spend my time learning technologies and frameworks that have a high value marketshare and are relevant in todays industry.
+<p align="center">
+  <em>"Always eager to keep up with industry standards and best practices — one commit at a time."</em>
+</p>
