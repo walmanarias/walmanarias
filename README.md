@@ -15,7 +15,7 @@
   </a>
 </p>
 
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
+---
 
 <h2 align="center">🧑‍💻 src/pages/AboutMe.tsx 🧑‍💻</h2>
 
@@ -35,7 +35,7 @@ const walman: Developer = {
 }
 ```
 
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
+---
 
 <h2 align="center">🛠️ src/pages/TechStack.tsx 🛠️</h2>
 
@@ -78,7 +78,7 @@ const walman: Developer = {
   </tr>
 </table>
 
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
+---
 
 <h2 align="center">🚀 src/pages/FeaturedProjects.tsx 🚀</h2>
 
@@ -115,7 +115,7 @@ const walman: Developer = {
   </tr>
 </table>
 
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
+---
 
 <h2 align="center">📡 src/pages/OnMyRadar.tsx 📡</h2>
 
@@ -137,7 +137,7 @@ const walman: Developer = {
   </tr>
 </table>
 
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
+---
 
 <h2 align="center">📊 src/pages/Stats.tsx 📊</h2>
 
@@ -155,7 +155,7 @@ const walman: Developer = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmanarias&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
+---
 
 <h2 align="center">🐍 src/pages/Contributions.tsx 🐍</h2>
 
@@ -163,7 +163,7 @@ const walman: Developer = {
   <img src="https://raw.githubusercontent.com/walmanarias/walmanarias/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──── ⋆⋅☆
+---
 
 <h2 align="center">🐚 src/pages/WhoAmI.tsx 🐚</h2>
 
