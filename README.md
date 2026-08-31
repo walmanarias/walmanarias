@@ -24,13 +24,13 @@ const walman: Developer = {
   name: "Walman Arias",
   role: "Senior Full-Stack Software Developer",
   location: "Honduras 🇭🇳",
-  experience: "12+ years in the industry",
+  experience: "13+ years in the industry",
   passion: "Building scalable web & mobile apps that solve real problems",
   building: ["SaaS Platforms", "Mobile Apps", "Admin Dashboards", "REST APIs"],
-  stack: ["Angular · React · Next.js · TypeScript", "NestJS · Node.js · .NET Core · C#", "PostgreSQL · MongoDB · CosmosDB · GraphQL"],
+  stack: ["Angular · React · Next.js · TypeScript", "NestJS · Node.js · .NET Core · C#", "MAUI", "PostgreSQL · MongoDB · CosmosDB · GraphQL", "MSSQL", "MySQL"],
   cloud: ["AWS", "Azure", "Vercel", "DigitalOcean", "AppWrite"],
   open_to: ["Full-time Roles", "Freelance", "Collaborations"],
-  currently_learning: ["Flutter", "RxJS Mastery", "Clean Architecture"],
+  currently_learning: ["Agentic Development Workflow", "SwiftUI, Objective C", "Java + Kotlin"],
   motto: "Write clean code, ship fast, and never stop learning"
 }
 ```
