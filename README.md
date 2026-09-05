@@ -27,13 +27,47 @@ const walman: Developer = {
   experience: "13+ years in the industry",
   passion: "Building scalable web & mobile apps that solve real problems",
   building: ["SaaS Platforms", "Mobile Apps", "Admin Dashboards", "REST APIs"],
-  stack: ["Angular · React · Next.js · TypeScript", "NestJS · Node.js · .NET Core · C#", "MAUI", "PostgreSQL · MongoDB · CosmosDB · GraphQL", "MSSQL", "MySQL"],
-  cloud: ["AWS", "Azure", "Vercel", "DigitalOcean", "AppWrite"],
+  stack: ["Angular · React · Next.js · TypeScript", "NestJS · Node.js · Fastify · .NET Core · C#", "MAUI · Expo · React Native", "PostgreSQL · MongoDB · CosmosDB · GraphQL", "MSSQL", "MySQL"],
+  cloud: ["AWS", "Azure", "Google Cloud", "Cloudflare", "Vercel", "Railway", "DigitalOcean", "Supabase", "Firebase", "AppWrite"],
   open_to: ["Full-time Roles", "Freelance", "Collaborations"],
   currently_learning: ["Agentic Development Workflow", "SwiftUI, Objective C", "Java + Kotlin"],
   motto: "Write clean code, ship fast, and never stop learning"
 }
 ```
+
+---
+
+<h2 align="center">🪪 src/pages/Profiles.tsx 🪪</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="230">
+      <a href="https://github.com/walmanarias">
+        <img src="https://github.com/walmanarias.png" width="90" alt="@walmanarias" /><br />
+        <b>@walmanarias</b>
+      </a>
+      <br />
+      <sub>🏠 Personal · OSS, side projects & experiments</sub>
+    </td>
+    <td align="center" width="230">
+      <a href="https://github.com/warias-rccl">
+        <img src="https://github.com/warias-rccl.png" width="90" alt="@warias-rccl" /><br />
+        <b>@warias-rccl</b>
+      </a>
+      <br />
+      <sub>💼 Work · enterprise & client projects</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/walmanarias">
+    <img src="https://img.shields.io/badge/Personal-@walmanarias-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub" />
+  </a>
+  <a href="https://github.com/warias-rccl">
+    <img src="https://img.shields.io/badge/Work-@warias--rccl-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -47,34 +81,46 @@ const walman: Developer = {
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML5</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS/SCSS</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS/SCSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="48"/><br>Gatsby</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48"/><br>WordPress</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br>PHP</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/><br>Flutter</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/expo/000000/ffffff" width="48"/><br>Expo</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48"/><br>.NET MAUI</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48"/><br>.NET</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/><br>C#</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48"/><br>NestJS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br>Express</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48"/><br>.NET</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/><br>C#</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br>PHP</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/fastify/000000/ffffff" width="48"/><br>Fastify</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48"/><br>GraphQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/><br>AWS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="48"/><br>Vercel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48"/><br>Supabase</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/><br>Flutter</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48"/><br>Jest</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48"/><br>WordPress</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="48"/><br>Gatsby</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/><br>Firebase</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/><br>AWS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"/><br>Google Cloud</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000/ffffff" width="48"/><br>Vercel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="48"/><br>Cloudflare</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/railway/000000/ffffff" width="48"/><br>Railway</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48"/><br>DigitalOcean</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br>Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48"/><br>Jest</td>
   </tr>
 </table>
 
