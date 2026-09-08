@@ -142,7 +142,7 @@ const walman: Developer = {
   <tr>
     <td>🛒 <b>shopmanagement-adminhub</b></td>
     <td>Admin Dashboard for Shop Management</td>
-    <td><code>TypeScript · Angular</code></td>
+    <td><code>TypeScript · React · Vitest · Firebase Functions</code></td>
   </tr>
   <tr>
     <td>🚌 <b>cinco-estrellas-mobile-app</b></td>
@@ -151,8 +151,8 @@ const walman: Developer = {
   </tr>
   <tr>
     <td>🦷 <b>dental-clinic</b></td>
-    <td>Full-Stack Dental Clinic System</td>
-    <td><code>TypeScript · C# · Angular</code></td>
+    <td>Full-Stack Dental Clinic System — Nx monorepo (API · Web · Mobile)</td>
+    <td><code>TypeScript · Nx · NestJS · React · React Native · Vitest</code></td>
   </tr>
   <tr>
     <td>🏥 <b>medmate</b></td>
